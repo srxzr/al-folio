@@ -78,6 +78,8 @@ plugins:
     - jekyll-paginate
     - jekyll/scholar
     - jemoji
+emoji:
+  src: "https://github.githubassets.com/images/icons/"
 
 # Jekyll-Scholar
 scholar:
